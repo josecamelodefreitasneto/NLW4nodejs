@@ -31,22 +31,4 @@ https://beekeeperstudio.io
 
 https://www.npmjs.com/package/uuid
 
-palavras chaves do google
 
-GOOGLE KEYWORD PLANNER
-
-GOOGLE TRENDS
-
-UBERSUGGEST.IO
-
-KEYWORDTOOL.IO
-
-GOOGLE ANALYTYCS
-
-SEMRUSH.COM
-
-MOZ.COM
-
-GOOGLE SEARCH CONSOLE
-
-CTA( CALL TO ACTION ) CHAMADA PARA AÇÃO
